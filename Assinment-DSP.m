@@ -113,4 +113,4 @@ list=[eye(7,7),[5;5;5;5;5;5;5]]
 %A(:,j)
 %it well show us all of items of clumn j.
 
-%by Sherif Ahmed Shehete Hammam -A9
+%by Sherif Ahmed Shehete Hammam - A9
