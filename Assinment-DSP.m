@@ -1,4 +1,7 @@
-%(q1)
+clc
+clear
+
+%% (q1)
 A=[-7 5 -9;2 -1 2;1 -1 2];
 B=[16 3 2 13;5 10 11 8; 9 6 7 12;4 15 14 1];
 C=[4 2 -3;7 -7 9;3 -5 6];
@@ -37,7 +40,7 @@ C*D'
     15   -96   -21   -24
   %}
 
-%(q2)
+%% (q2)
 
 %zeros(n)
 %makes matrix n*n all of it items is 0s.
@@ -63,7 +66,7 @@ C*D'
 %eye(n)
 %make for us matrix n*n but the items is 0s and the diagnal is 1s.
 
-%(q3)
+%% (q3)
 [A,B]
 
 %it well make  new matrix with A and B in same clumn.
@@ -90,7 +93,7 @@ ans =
 
   %}
 %it well make  new matrix with A and B in same row.
-%(q4)
+%% (q4)
 list=[eye(7,7),[5;5;5;5;5;5;5]]
  %{ 
  list =
@@ -104,7 +107,7 @@ list=[eye(7,7),[5;5;5;5;5;5;5]]
      0     0     0     0     0     0     1     5
   %}
 
-%(q5)
+%% (q5)
 
 %A(n,:)
 %it well show us all of items of row n.
