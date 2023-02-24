@@ -2,7 +2,7 @@
 ## By Sherif Ahmed 
 
 Basic Matrix Operations
-This example shows basic techniques and functions for working with matrices in the MATLAB® language.
+This example shows basic techniques and functions for working with matrices in the MATLAB language.
 
 First, let's create a simple vector with 9 elements called a.
 
